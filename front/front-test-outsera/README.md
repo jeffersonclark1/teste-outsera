@@ -37,6 +37,12 @@ Aplicação web para consultar filmes e estatísticas de vencedores, consumindo 
 
 Na pasta do projeto, instale as dependências usando o arquivo de lock:
 
+Utilize Node.js 24 e npm. Na pasta `backend`, instale as dependências:
+
+```bash
+npm install
+```
+
 Inicie o servidor de desenvolvimento:
 
 ```bash
