@@ -14,7 +14,7 @@ API que lê os filmes de `storage/Movielist.csv` e retorna os intervalos calcula
 Utilize Node.js 24 e npm. Na pasta `backend`, instale as dependências:
 
 ```bash
-npm i
+npm install
 ```
 
 Inicie o servidor:
